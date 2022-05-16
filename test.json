@@ -1,0 +1,24 @@
+{
+    "data":
+        [
+            {
+                "name": "Jordan Taylor",
+                "address_1": "1100 W Palmer Street",
+                "address_2": null,
+                "state_province": "FL",
+                "city": "Palm Springs",
+                "country": "US",
+                "postal_code": "33658",
+                "short_name": "JT",
+                "details": [{
+                    "ID": 54160536,
+                    "email": "jordantaylor@email.com",
+                    "phone": "+1 (883) 254 1236",
+                    "fax": "+1 (883) 254 1237",
+                    "status": "Active"
+                }]
+        
+            }
+        ]
+}
+    
